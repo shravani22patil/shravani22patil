@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Shravani Patil</h1>
 
 <h3 align="center">
@@ -203,4 +203,3 @@ Multimodal AI Assistant
 ⭐ If you like my work, consider starring my repositories!
 
 </p>
-```
