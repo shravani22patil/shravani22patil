@@ -98,46 +98,6 @@ Git • GitHub • VS Code • Google Colab • Docker
 
 ---
 
-# 📌 Featured Projects
-
-## 🧠 FlowAI Studio
-
-Visual workflow builder for LLM applications.
-
-✨ Features
-
-- Drag & Drop Nodes
-- LangGraph Execution
-- Claude Integration
-- Dynamic Agent Routing
-- DAG Execution Engine
-
----
-
-## 📄 FortifyFlow
-
-Production-ready AI Copilot
-
-- RAG
-- ChromaDB
-- PDF Intelligence
-- AI Report Generation
-- CSV Analytics
-
----
-
-## 🎙 VisionVoice AI
-
-Multimodal AI Assistant
-
-- Image Understanding
-- PDF Understanding
-- Gemini API
-- Voice Narration
-- OCR Pipeline
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
