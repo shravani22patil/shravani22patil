@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shravani Patil</h1>
 
 <h3 align="center">
-AI Engineer • Agentic AI Developer • Data Scientist • LLM Applications
+AI Engineer • Agentic AI • GenAI • Machine Learning • Data Analytics • LLM Applications
 </h3>
 
 <p align="center">
@@ -113,16 +113,6 @@ Git • GitHub • VS Code • Google Colab • Docker
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Shravani22Patil&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shravani22Patil&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
