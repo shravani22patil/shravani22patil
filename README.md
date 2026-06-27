@@ -46,22 +46,25 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 
 ### AI & LLM
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+<p>
 
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge"/>
 
-![CrewAI](https://img.shields.io/badge/CrewAI-purple?style=for-the-badge)
+<img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge"/>
 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/LlamaIndex-E11D48?style=for-the-badge"/>
 
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
+
+</p>
 ---
 
 ### Machine Learning
