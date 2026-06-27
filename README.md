@@ -163,18 +163,6 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 
 ---
 
-# 🌱 Currently Learning
-
-- Multi-Agent AI Systems
-- Advanced RAG
-- MCP Servers
-- AI Evaluations
-- LangGraph Deep Dive
-- AI Deployment
-- LLMOps
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
