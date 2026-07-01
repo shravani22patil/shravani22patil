@@ -197,7 +197,7 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 
 <p align="center">
 
-<a href="https://linkedin.com/in/shravani-patil">
+<a href="https://linkedin.com/in/shravani-patil-38791b286">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
