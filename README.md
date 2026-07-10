@@ -204,6 +204,14 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 </p>
 
 ---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shravani22Patil&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 # 🐍 Contribution Snake
 
 <p align="center">
