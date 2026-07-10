@@ -162,61 +162,12 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 </p>
 
 ---
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shravani22Patil&theme=tokyonight&hide_border=true&border_radius=10" width="700"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravani22Patil&theme=tokyonight" width="800"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shravani22Patil&theme=tokyonight" width="390"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shravani22Patil&theme=tokyonight" width="390"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shravani22Patil&theme=tokyonight" width="390"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shravani22Patil&theme=tokyonight&utcOffset=5.5" width="390"/>
-
-</p>
-
----
-
 
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shravani22Patil&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shravani22Patil&theme=tokyonight&hide_border=true" />
-</p>
-
----
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Shravani22Patil/Shravani22Patil/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
