@@ -166,19 +166,34 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shravani22Patil&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shravani22Patil&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shravani22Patil&theme=tokyonight&hide_border=true&border_radius=10" width="700"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shravani22Patil&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravani22Patil&theme=tokyonight" width="800"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shravani22Patil&theme=tokyonight" width="390"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shravani22Patil&theme=tokyonight" width="390"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shravani22Patil&theme=tokyonight" width="390"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shravani22Patil&theme=tokyonight&utcOffset=5.5" width="390"/>
 
 </p>
 
 ---
+
 
 # 📈 Contribution Graph
 
