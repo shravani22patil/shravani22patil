@@ -167,9 +167,7 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 <p align="center">
  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shravani22Patil&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani22Patil&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+ <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shravani22Patil&layout=compact&theme=tokyonight&hide_border=true" />
 
 <p align="center">
   <img
