@@ -204,6 +204,15 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shravani22Patil/Shravani22Patil/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
 
 # 📫 Connect With Me
 
