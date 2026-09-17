@@ -171,16 +171,6 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/shravani22patil">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravani22patil&hide_border=true" width="100%"/>
-  </a>
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
