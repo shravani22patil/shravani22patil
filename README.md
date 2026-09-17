@@ -166,21 +166,17 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravani22patil&show_icons=true&hide_border=true&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravani22patil&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shravani22patil&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=shravani22patil&theme=default&hide_border=true" width="495"/>
 </p>
 
 ---
+
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shravani22Patil&theme=tokyo-night"/>
-
+  <a href="https://github.com/shravani22patil">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravani22patil&hide_border=true" width="100%"/>
+  </a>
 </p>
 
 ---
