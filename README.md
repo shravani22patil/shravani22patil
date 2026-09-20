@@ -165,8 +165,6 @@ Currently exploring autonomous AI workflows, multi-agent systems, and scalable A
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shravani22patil&hide_border=true" width="495"/>
 </p>
