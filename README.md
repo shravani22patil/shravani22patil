@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shravani Patil</h1>
 
 <h3 align="center">
-AI Engineer • Agentic AI • GenAI • Machine Learning • Data Analytics • LLM Applications
+AI Engineer • Agentic AI • GenAI • Data Analytics • LLM Applications
 </h3>
 
 <p align="center">
