@@ -6,7 +6,7 @@ AI Engineer • Agentic AI • GenAI • Data Analytics • LLM Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+AI+Developer;LLM+Application+Builder;Data+Science+Enthusiast;Building+Intelligent+Systems+with+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+AI+Developer;LLM+Application+Builder;;Building+Intelligent+Systems+with+Python" />
 </p>
 
 ---
